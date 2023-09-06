@@ -44,3 +44,21 @@
    43  hitory
    44  history
    45  history > clihistory.txt
+   46  ls
+   47  cat clihistory.txt 
+   48  pwd
+   49  git status
+   50  git add test.txt
+   51  git add clihistory.txt
+   52  ls javacode/
+   53  git add javacode/
+   54  git status
+   55  git commit -m "first assignment"
+   56  git config --global user.name "Yunhua468"
+   57  git config --global user.email yzhao5@gradcenter.cuny.edu
+   58  git commit -m "first assignment"
+   59  git log
+   60  git branch
+   61  git push -u orign main
+   62  git push -u origin main
+   63  history > clihistory.txt
